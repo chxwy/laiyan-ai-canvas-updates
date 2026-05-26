@@ -1,14 +1,14 @@
 {
-  "version": "1.0.4",
-  "display_version": "1.0.4",
-  "url": "https://chxwy.github.io/laiyan-ai-canvas-updates/releases/%E6%9D%A5%E7%87%95AI%E8%AE%BE%E8%AE%A1%E7%94%BB%E5%B8%83-%E5%AE%89%E8%A3%85%E5%8C%85-1.0.4.exe",
-  "sha256": "5582ebf1ea6b51e071ba50bb7121414ae54f97a0da6fd971741f5eb3f6fdb271",
+  "version": "1.0.5",
+  "display_version": "1.0.5",
+  "url": "https://chxwy.github.io/laiyan-ai-canvas-updates/releases/%E6%9D%A5%E7%87%95AI%E8%AE%BE%E8%AE%A1%E7%94%BB%E5%B8%83-%E5%AE%89%E8%A3%85%E5%8C%85-1.0.5.exe",
+  "sha256": "0c0413c41f2a57a1a71f0447b8a5b6029513e303e41ac8bfba6e81da3ffad400",
   "notes": [
-    "修复下载时弹出黑色 PowerShell 窗口的问题。",
-    "生成图下载改为桌面原生一键保存，首次选择文件夹后自动命名保存。",
-    "新增下载设置页，可查看、更换默认保存文件夹。"
+    "修复 1.0.4 桌面版启动后卡死或未响应的问题。",
+    "保留生成图一键保存到记忆文件夹的下载体验。",
+    "优化桌面桥接层，只暴露必要方法，避免 WebView 原生对象递归扫描。"
   ],
-  "published_at": "2026-05-26T21:27:00+08:00",
+  "published_at": "2026-05-26T21:50:00+08:00",
   "force": false,
-  "size": 17771923
+  "size": 17770683
 }
