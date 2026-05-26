@@ -1,0 +1,14 @@
+{
+  "version": "2026.05.26.5",
+  "display_version": "2026.05.26.5",
+  "url": "https://chxwy.github.io/laiyan-ai-canvas-updates/releases/%E6%9D%A5%E7%87%95AI%E8%AE%BE%E8%AE%A1%E7%94%BB%E5%B8%83-%E5%AE%89%E8%A3%85%E5%8C%85-2026.05.26.5.exe",
+  "sha256": "854ec9835606e4f60316087f1fa6652f69d2b2b1f89f93c15a866c5f29521854",
+  "notes": [
+    "新增远程更新功能：支持检查更新、下载安装包、SHA256 校验和启动安装程序。",
+    "默认更新源切换到 GitHub Pages。",
+    "发布版本 2026.05.26.5。"
+  ],
+  "published_at": "2026-05-26T15:16:34+08:00",
+  "force": false,
+  "size": 17763604
+}
