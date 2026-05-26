@@ -1,14 +1,14 @@
 {
-  "version": "1.0.2",
-  "display_version": "1.0.2",
-  "url": "https://chxwy.github.io/laiyan-ai-canvas-updates/releases/%E6%9D%A5%E7%87%95AI%E8%AE%BE%E8%AE%A1%E7%94%BB%E5%B8%83-%E5%AE%89%E8%A3%85%E5%8C%85-1.0.2.exe",
-  "sha256": "3ad11a1bfc02a93da5211aadd1be61c1f0ca7d33d2162f3e674169aa99c99945",
+  "version": "1.0.3",
+  "display_version": "1.0.3",
+  "url": "https://chxwy.github.io/laiyan-ai-canvas-updates/releases/%E6%9D%A5%E7%87%95AI%E8%AE%BE%E8%AE%A1%E7%94%BB%E5%B8%83-%E5%AE%89%E8%A3%85%E5%8C%85-1.0.3.exe",
+  "sha256": "f0894f347c5102479822a8b63dcf1ff6aa2408506ed38f339389a5304442c7aa",
   "notes": [
-    "新增启动自动更新弹窗：打开软件后发现新版本会主动提示。",
-    "弹窗支持查看更新内容、下载进度、SHA256 校验后启动安装。",
-    "修正更新说明数组显示为带引号字符串的问题。"
+    "修复桌面版图片下载不弹保存位置窗口的问题。",
+    "生成图预览右上角下载按钮改为 Windows 另存为对话框。",
+    "普通画布和智能画布的单图下载都支持选择保存路径。"
   ],
-  "published_at": "2026-05-26T17:58:17+08:00",
+  "published_at": "2026-05-26T18:03:25+08:00",
   "force": false,
-  "size": 17763968
+  "size": 17766738
 }
