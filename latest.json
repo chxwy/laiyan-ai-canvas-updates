@@ -1,14 +1,14 @@
 {
-  "version": "1.0.1",
-  "display_version": "1.0.1",
-  "url": "https://chxwy.github.io/laiyan-ai-canvas-updates/releases/%E6%9D%A5%E7%87%95AI%E8%AE%BE%E8%AE%A1%E7%94%BB%E5%B8%83-%E5%AE%89%E8%A3%85%E5%8C%85-1.0.1.exe",
-  "sha256": "9d334354d154470daa6fa8211e2f5664e5261a44337af2c1a9d0175efc8210c8",
+  "version": "1.0.2",
+  "display_version": "1.0.2",
+  "url": "https://chxwy.github.io/laiyan-ai-canvas-updates/releases/%E6%9D%A5%E7%87%95AI%E8%AE%BE%E8%AE%A1%E7%94%BB%E5%B8%83-%E5%AE%89%E8%A3%85%E5%8C%85-1.0.2.exe",
+  "sha256": "3ad11a1bfc02a93da5211aadd1be61c1f0ca7d33d2162f3e674169aa99c99945",
   "notes": [
-    "修复生成图片下载无反应的问题。",
-    "生成后的本地图片和批量打包下载不再被二次授权拦截。",
-    "智能画布下载失败时会显示明确提示。"
+    "新增启动自动更新弹窗：打开软件后发现新版本会主动提示。",
+    "弹窗支持查看更新内容、下载进度、SHA256 校验后启动安装。",
+    "修正更新说明数组显示为带引号字符串的问题。"
   ],
-  "published_at": "2026-05-26T17:49:43+08:00",
+  "published_at": "2026-05-26T17:58:17+08:00",
   "force": false,
-  "size": 17762253
+  "size": 17763968
 }
