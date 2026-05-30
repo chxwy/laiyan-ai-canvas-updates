@@ -1,14 +1,14 @@
 {
-  "version": "1.0.5",
-  "display_version": "1.0.5",
-  "url": "https://chxwy.github.io/laiyan-ai-canvas-updates/releases/%E6%9D%A5%E7%87%95AI%E8%AE%BE%E8%AE%A1%E7%94%BB%E5%B8%83-%E5%AE%89%E8%A3%85%E5%8C%85-1.0.5.exe",
-  "sha256": "0c0413c41f2a57a1a71f0447b8a5b6029513e303e41ac8bfba6e81da3ffad400",
+  "version": "1.0.6",
+  "display_version": "1.0.6",
+  "url": "https://chxwy.github.io/laiyan-ai-canvas-updates/releases/%E6%9D%A5%E7%87%95AI%E8%AE%BE%E8%AE%A1%E7%94%BB%E5%B8%83-%E5%AE%89%E8%A3%85%E5%8C%85-1.0.6.exe",
+  "sha256": "2b7a2a4838a8e1fb32c7e17402f5ef76e688643abfc87448a07846b0d3750674",
   "notes": [
-    "修复 1.0.4 桌面版启动后卡死或未响应的问题。",
-    "保留生成图一键保存到记忆文件夹的下载体验。",
-    "优化桌面桥接层，只暴露必要方法，避免 WebView 原生对象递归扫描。"
+    "更新内置 API 平台配置和 API 密钥。",
+    "同步本次应用内容更新。",
+    "安装更新时继续保留授权、画布、会话和输出文件。"
   ],
-  "published_at": "2026-05-26T21:50:00+08:00",
+  "published_at": "2026-05-30T12:32:00+08:00",
   "force": false,
-  "size": 17770683
+  "size": 17847532
 }
