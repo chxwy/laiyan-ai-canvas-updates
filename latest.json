@@ -1,14 +1,15 @@
 {
-  "version": "1.0.7",
-  "display_version": "1.0.7",
-  "url": "https://chxwy.github.io/laiyan-ai-canvas-updates/releases/%E6%9D%A5%E7%87%95AI%E8%AE%BE%E8%AE%A1%E7%94%BB%E5%B8%83-%E5%AE%89%E8%A3%85%E5%8C%85-1.0.7.exe",
-  "sha256": "ea8798ab23ed7a598e288d83debdfb067aec9debe2f70b32da94e92af2ffa5cf",
+  "version": "1.0.8",
+  "display_version": "1.0.8",
+  "url": "https://chxwy.github.io/laiyan-ai-canvas-updates/releases/%E6%9D%A5%E7%87%95AI%E8%AE%BE%E8%AE%A1%E7%94%BB%E5%B8%83-%E5%AE%89%E8%A3%85%E5%8C%85-1.0.8.exe",
+  "sha256": "9f150a920e92a0f2a6e05d08b4e39394994675a2b7422dd69d0dce908978e3b5",
   "notes": [
-    "修复用户更新后密钥未生效的问题，安装包内置最新图片/视频与画布助手两套密钥配置。",
-    "优化统一画布生成卡片：下载/删除按钮、参数选择、上传入口和功能区布局。",
-    "补齐图片生成 3:4 与 4:3 比例，并保留 auto 跟随参考图。"
+    "AI 助手改为默认窄全屏、底部输入框和纯聊天回复，并固定走专属画布助手接口。",
+    "修复 AI 助手引用图片后读图链路，隐藏普通聊天回复里的画布操作按钮。",
+    "新增全选/多选批量下载图片和视频，图生视频安装包内置图片中转配置。",
+    "生成结束后不再自动抢占用户当前选中的结果卡片。"
   ],
-  "published_at": "2026-05-30T14:05:00+08:00",
+  "published_at": "2026-05-30T15:46:00+08:00",
   "force": false,
-  "size": 17848223
+  "size": 17849839
 }
