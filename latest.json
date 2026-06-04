@@ -1,10 +1,10 @@
 {
-  "version": "1.1.0",
-  "display_version": "1.1.0",
-  "url": "https://chxwy.github.io/laiyan-ai-canvas-updates/releases/%E6%9D%A5%E7%87%95AI%E8%AE%BE%E8%AE%A1%E7%94%BB%E5%B8%83-%E5%AE%89%E8%A3%85%E5%8C%85-1.1.0.exe",
-  "sha256": "e4ba764c3d7dcfbb4a1b8b5972af215367af3516a6b8b0fe0bb4664351381bd4",
-  "size": 17896805,
-  "published_at": "2026-06-04T18:01:48+08:00",
+  "version": "1.1.1",
+  "display_version": "1.1.1",
+  "url": "https://chxwy.github.io/laiyan-ai-canvas-updates/releases/%E6%9D%A5%E7%87%95AI%E8%AE%BE%E8%AE%A1%E7%94%BB%E5%B8%83-%E5%AE%89%E8%A3%85%E5%8C%85-1.1.1.exe",
+  "sha256": "e77466598b9d8d181ae687a9881ea7fd7586d071836e737b3096e65afda0d924",
+  "size": 17896353,
+  "published_at": "2026-06-04T18:08:14+08:00",
   "force": false,
   "notes": [
     "增加画布网关功能，加速生成速度。"
