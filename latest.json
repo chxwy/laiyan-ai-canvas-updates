@@ -1,10 +1,10 @@
 {
-  "version": "1.1.2-hotfix.1",
-  "display_version": "1.1.2-hotfix.1",
-  "url": "https://chxwy.github.io/laiyan-ai-canvas-updates/releases/%E6%9D%A5%E7%87%95AI%E8%AE%BE%E8%AE%A1%E7%94%BB%E5%B8%83-%E5%AE%89%E8%A3%85%E5%8C%85-1.1.2-hotfix.1.exe",
-  "sha256": "d99ef48e2ac0d249fe3920c1279231a3f83e27499700cfc082e2f92f468166cc",
-  "size": 17730125,
-  "published_at": "2026-06-12T12:09:43+08:00",
+  "version": "1.1.2",
+  "display_version": "1.1.2",
+  "url": "https://chxwy.github.io/laiyan-ai-canvas-updates/releases/%E6%9D%A5%E7%87%95AI%E8%AE%BE%E8%AE%A1%E7%94%BB%E5%B8%83-%E5%AE%89%E8%A3%85%E5%8C%85-1.1.2.exe",
+  "sha256": "b8fc490ee11ed61c50a744a02f929daf8157f32565d5ef23aa0fe09211e7e872",
+  "size": 17730788,
+  "published_at": "2026-06-12T12:31:19+08:00",
   "force": false,
   "notes": [
     "修复快捷键错乱问题。"
