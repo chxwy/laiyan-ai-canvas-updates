@@ -1,12 +1,12 @@
 {
-  "version": "1.1.4",
-  "display_version": "1.1.4",
-  "url": "https://chxwy.github.io/laiyan-ai-canvas-updates/releases/%E6%9D%A5%E7%87%95AI%E8%AE%BE%E8%AE%A1%E7%94%BB%E5%B8%83-%E5%AE%89%E8%A3%85%E5%8C%85-1.1.4.exe",
-  "sha256": "5f7a202d0683d8a323f32fedb6cf0f65e30db45157d4d62a78685cd39b4109ba",
-  "size": 17743204,
-  "published_at": "2026-06-12T15:23:37+08:00",
+  "version": "1.1.5",
+  "display_version": "1.1.5",
+  "url": "https://chxwy.github.io/laiyan-ai-canvas-updates/releases/%E6%9D%A5%E7%87%95AI%E8%AE%BE%E8%AE%A1%E7%94%BB%E5%B8%83-%E5%AE%89%E8%A3%85%E5%8C%85-1.1.5.exe",
+  "sha256": "daa1eb6559275f8edb1c0cc06a19e3f2c26a42d84841387ada7d3de7ec07d922",
+  "size": 17748928,
+  "published_at": "2026-06-12T17:30:38+08:00",
   "force": false,
   "notes": [
-    "修复安装包启动失败问题"
+    "加入备用线路防止主线路服务器宕机影响正常使用"
   ]
 }
