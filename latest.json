@@ -1,12 +1,12 @@
 {
-  "version": "1.1.7",
-  "display_version": "1.1.7",
-  "url": "https://chxwy.github.io/laiyan-ai-canvas-updates/releases/%E6%9D%A5%E7%87%95AI%E8%AE%BE%E8%AE%A1%E7%94%BB%E5%B8%83-%E5%AE%89%E8%A3%85%E5%8C%85-1.1.7.exe?build=20260613142902",
-  "sha256": "fe32a13cef1602758bdd5b3cfdd4d0a81d31414c4ebc589db80d2a4e89785976",
+  "version": "1.1.8",
+  "display_version": "1.1.8",
+  "url": "https://chxwy.github.io/laiyan-ai-canvas-updates/releases/%E6%9D%A5%E7%87%95AI%E8%AE%BE%E8%AE%A1%E7%94%BB%E5%B8%83-%E5%AE%89%E8%A3%85%E5%8C%85-1.1.8.exe?build=20260613193504",
+  "sha256": "7867c9287056f3d380a1ee36c02621bcaeba9708ed45ac43bff382b504fedecb",
   "notes": [
-    "支持画布文件导入导出方便分享，并修复已知错误"
+    "新增备用渠道02，优化线路更新同步"
   ],
-  "published_at": "2026-06-13T14:29:02+08:00",
+  "published_at": "2026-06-13T19:35:04+08:00",
   "force": false,
-  "size": 17755191
+  "size": 17758714
 }
