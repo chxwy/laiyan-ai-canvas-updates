@@ -1,12 +1,12 @@
 {
-  "version": "1.1.9",
-  "display_version": "1.1.9",
-  "url": "https://chxwy.github.io/laiyan-ai-canvas-updates/releases/%E6%9D%A5%E7%87%95AI%E8%AE%BE%E8%AE%A1%E7%94%BB%E5%B8%83-%E5%AE%89%E8%A3%85%E5%8C%85-1.1.9.exe?build=20260625162809",
-  "sha256": "d185b32948ed5e169a55945b142b0e991ee70738fcfc763fed59962518c5853f",
+  "version": "1.2.0",
+  "display_version": "1.2.0",
+  "url": "https://chxwy.github.io/laiyan-ai-canvas-updates/releases/%E6%9D%A5%E7%87%95AI%E8%AE%BE%E8%AE%A1%E7%94%BB%E5%B8%83-%E5%AE%89%E8%A3%85%E5%8C%85-1.2.0.exe?build=20260708163634",
+  "sha256": "92e52bacabb64f7d82c598036b012f96bfcfe449f54dfd885bcd3f2ff5ea0c5e",
   "notes": [
-    "修复旧版本显示无API的报错问题"
+    "修复旧版本用户 API Key 无效问题"
   ],
-  "published_at": "2026-06-25T16:28:09+08:00",
+  "published_at": "2026-07-08T16:36:34+08:00",
   "force": false,
-  "size": 17758867
+  "size": 17757304
 }
