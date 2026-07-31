@@ -1,12 +1,12 @@
 {
-  "version": "1.2.2",
-  "display_version": "1.2.2",
-  "url": "https://chxwy.github.io/laiyan-ai-canvas-updates/releases/%E6%9D%A5%E7%87%95AI%E8%AE%BE%E8%AE%A1%E7%94%BB%E5%B8%83-%E5%AE%89%E8%A3%85%E5%8C%85-1.2.2.exe?build=20260731154637",
-  "sha256": "4e6d7aeb2d1a0489497e769805db6aebab5d99d6457c53e10419954e0728703f",
+  "version": "1.2.3",
+  "display_version": "1.2.3",
+  "url": "https://chxwy.github.io/laiyan-ai-canvas-updates/releases/%E6%9D%A5%E7%87%95AI%E8%AE%BE%E8%AE%A1%E7%94%BB%E5%B8%83-%E5%AE%89%E8%A3%85%E5%8C%85-1.2.3.exe?build=20260731165420",
+  "sha256": "795bf5a8af771112e2d10e6544f4703ca8191877d3d28494f14a6016bfe5c9ad",
   "notes": [
-    "调整渠道配置"
+    "修复错误"
   ],
-  "published_at": "2026-07-31T15:46:37+08:00",
+  "published_at": "2026-07-31T16:54:20+08:00",
   "force": false,
-  "size": 17758859
+  "size": 17758765
 }
